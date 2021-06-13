@@ -14,6 +14,8 @@ Just click on the big green button on upper right corner or run:
 
 ```git clone https://github.com/mxngls/Gmail-Cleaner.git```
 
+Then open 'Request.py' and add the received key to the request parameters (I left it just empty).
+
 ## Usage
 From the Gomsaek directory run: ```python3 main.py```
 
